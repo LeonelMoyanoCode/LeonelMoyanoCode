@@ -27,6 +27,6 @@ Un proyecto en el que combiné desarrollo web y narrativa para crear una experie
 
 ## 📫 Contacto  
 
-- **Correo electrónico:** [tucorreo@example.com](mailto:tucorreo@example.com)  
-- **GitHub:** [github.com/tuusuario](https://github.com/tuusuario)  
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)  
+- **Correo electrónico:** [leonelmoyano56@gmail.com](mailto:leonelmoyano56@gmail.com)  
+- **GitHub:** [https://github.com/LeonelMoyanoCode](https://github.com/LeonelMoyanoCode)  
+- **LinkedIn:** [https://www.linkedin.com/in/leonel-moyano1/](https://www.linkedin.com/in/leonel-moyano1/)  
