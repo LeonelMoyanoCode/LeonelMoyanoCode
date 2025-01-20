@@ -10,4 +10,4 @@ DESARROLLADOR WEB FREELANCER
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,ts,tailwind,linux,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,tailwind,js,html,css,linux,c)](https://skillicons.dev)
