@@ -1,12 +1,11 @@
 DESARROLLADOR WEB FREELANCER
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+### 👨🏻‍💻 Sobre Mí  
+💡 Apasionado por la tecnología, el desarrollo web y la creación de soluciones prácticas para diversos proyectos.  
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+🎓 Programador web **freelancer**, especializado en tecnologías modernas para frontend y backend.  
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: unsimpledev@gmail.com
+💬 No dudes en contactarme para proyectos freelance, colaboraciones o simplemente para hablar sobre tecnología.  
 
 
 
