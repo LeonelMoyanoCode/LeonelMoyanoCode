@@ -13,14 +13,26 @@
 
 ## 👨🏻‍💻 Algunos Proyectos
 
-### 1. **LibroJuego Interactivo**  
-Un proyecto en el que combiné desarrollo web y narrativa para crear una experiencia de libro interactivo. Utiliza **React** y **Node.js**.
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="width: 22%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
+    <img src="multimedia/librojuego.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
+    <p style="padding: 10px; font-size: 16px;">Texto 1: Descripción breve del librojuego.</p>
+  </div>
+  
+  <div style="width: 22%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
+    <img src="multimedia/librojuego.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
+    <p style="padding: 10px; font-size: 16px;">Texto 2: Más información sobre la experiencia interactiva.</p>
+  </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <img src="multimedia/librojuego.jpg" alt="Vista previa del librojuego" style="width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-  <img src="multimedia/librojuego.jpg" alt="Vista previa del librojuego" style="width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-  <img src="multimedia/librojuego.jpg" alt="Vista previa del librojuego" style="width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-  <img src="multimedia/librojuego.jpg" alt="Vista previa del librojuego" style="width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+  <div style="width: 22%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
+    <img src="multimedia/librojuego.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
+    <p style="padding: 10px; font-size: 16px;">Texto 3: Historia y narrativa del libro interactivo.</p>
+  </div>
+
+  <div style="width: 22%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
+    <img src="multimedia/librojuego.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
+    <p style="padding: 10px; font-size: 16px;">Texto 4: Descripción de las funcionalidades interactivas.</p>
+  </div>
 </div>
 
 ---
