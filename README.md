@@ -13,10 +13,10 @@
 
 ## 👨🏻‍💻 Algunos Proyectos
 
-![Descripción de la imagen](indexjuego.jpg)
-![Descripción de la imagen](indexjuego.jpg)
-![Descripción de la imagen](indexjuego.jpg)
-![Descripción de la imagen](indexjuego.jpg)
+![Descripción de la imagen](indexuniversidad.jpg)
+![Descripción de la imagen](librojuego.jpg)
+![Descripción de la imagen](indexuniversidad.jpg)
+![Descripción de la imagen](librojuego.jpg)
 
 
 
