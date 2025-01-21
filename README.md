@@ -13,32 +13,31 @@
 
 ## 👨🏻‍💻 Algunos Proyectos
 
-<div class="flex gap-4 flex-wrap p-4">
+<div class="flex justify-start gap-4 flex-wrap p-4">
   <!-- Card 1 -->
-  <div class="w-1/5 rounded-lg shadow-lg overflow-hidden text-center">
+  <div class="w-1/4 sm:w-1/5 md:w-1/4 lg:w-1/5 xl:w-1/5 rounded-lg shadow-lg overflow-hidden text-center">
     <img src="indexuniversidad.jpg" alt="Vista previa del librojuego" class="w-full h-auto"/>
     <p class="p-4 text-lg">Texto 1: Descripción breve del librojuego.</p>
   </div>
 
   <!-- Card 2 -->
-  <div class="w-1/5 rounded-lg shadow-lg overflow-hidden text-center">
+  <div class="w-1/4 sm:w-1/5 md:w-1/4 lg:w-1/5 xl:w-1/5 rounded-lg shadow-lg overflow-hidden text-center">
     <img src="librojuego.jpg" alt="Vista previa del librojuego" class="w-full h-auto"/>
     <p class="p-4 text-lg">Texto 2: Más información sobre la experiencia interactiva.</p>
   </div>
 
   <!-- Card 3 -->
-  <div class="w-1/5 rounded-lg shadow-lg overflow-hidden text-center">
+  <div class="w-1/4 sm:w-1/5 md:w-1/4 lg:w-1/5 xl:w-1/5 rounded-lg shadow-lg overflow-hidden text-center">
     <img src="librojuego.jpg" alt="Vista previa del librojuego" class="w-full h-auto"/>
     <p class="p-4 text-lg">Texto 3: Historia y narrativa del libro interactivo.</p>
   </div>
 
   <!-- Card 4 -->
-  <div class="w-1/5 rounded-lg shadow-lg overflow-hidden text-center">
+  <div class="w-1/4 sm:w-1/5 md:w-1/4 lg:w-1/5 xl:w-1/5 rounded-lg shadow-lg overflow-hidden text-center">
     <img src="librojuego.jpg" alt="Vista previa del librojuego" class="w-full h-auto"/>
     <p class="p-4 text-lg">Texto 4: Descripción de las funcionalidades interactivas.</p>
   </div>
 </div>
-
 
 
 ---
