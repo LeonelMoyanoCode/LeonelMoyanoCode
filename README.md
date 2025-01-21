@@ -13,31 +13,32 @@
 
 ## 👨🏻‍💻 Algunos Proyectos
 
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; padding: 20px;">
+<div class="flex gap-4 flex-wrap p-4">
   <!-- Card 1 -->
-  <div style="width: 23%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <img src="indexuniversidad.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
-    <p style="padding: 10px; font-size: 16px;">Texto 1: Descripción breve del librojuego.</p>
+  <div class="w-1/5 rounded-lg shadow-lg overflow-hidden text-center">
+    <img src="indexuniversidad.jpg" alt="Vista previa del librojuego" class="w-full h-auto"/>
+    <p class="p-4 text-lg">Texto 1: Descripción breve del librojuego.</p>
   </div>
 
   <!-- Card 2 -->
-  <div style="width: 23%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <img src="librojuego.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
-    <p style="padding: 10px; font-size: 16px;">Texto 2: Más información sobre la experiencia interactiva.</p>
+  <div class="w-1/5 rounded-lg shadow-lg overflow-hidden text-center">
+    <img src="librojuego.jpg" alt="Vista previa del librojuego" class="w-full h-auto"/>
+    <p class="p-4 text-lg">Texto 2: Más información sobre la experiencia interactiva.</p>
   </div>
 
   <!-- Card 3 -->
-  <div style="width: 23%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <img src="librojuego.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
-    <p style="padding: 10px; font-size: 16px;">Texto 3: Historia y narrativa del libro interactivo.</p>
+  <div class="w-1/5 rounded-lg shadow-lg overflow-hidden text-center">
+    <img src="librojuego.jpg" alt="Vista previa del librojuego" class="w-full h-auto"/>
+    <p class="p-4 text-lg">Texto 3: Historia y narrativa del libro interactivo.</p>
   </div>
 
   <!-- Card 4 -->
-  <div style="width: 23%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <img src="librojuego.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
-    <p style="padding: 10px; font-size: 16px;">Texto 4: Descripción de las funcionalidades interactivas.</p>
+  <div class="w-1/5 rounded-lg shadow-lg overflow-hidden text-center">
+    <img src="librojuego.jpg" alt="Vista previa del librojuego" class="w-full h-auto"/>
+    <p class="p-4 text-lg">Texto 4: Descripción de las funcionalidades interactivas.</p>
   </div>
 </div>
+
 
 
 ---
