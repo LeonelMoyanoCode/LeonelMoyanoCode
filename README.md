@@ -12,11 +12,10 @@
 ---
 
 ## 👨🏻‍💻 Algunos Proyectos
-| ![Texto alternativo 1](indexuniversidad.jpg) | ![Texto alternativo 2](librojuego.jpg) | ![Texto alternativo 1](indexuniversidad.jpg) | ![Texto alternativo 2](librojuego.jpg)  |
-|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
-| Descripción 1                             | Descripción 2                             | Descripción 3                             | Descripción 4                             |
 
-
+| ![Texto alternativo 1](indexuniversidad.jpg) | ![Texto alternativo 2](librojuego.jpg) | ![Texto alternativo 3](proyecto3.jpg) | ![Texto alternativo 4](proyecto4.jpg) |
+|---------------------------------------------|----------------------------------------|---------------------------------------|---------------------------------------|
+| **Descripción 1**: Breve descripción del proyecto 1. | **Descripción 2**: Breve descripción del proyecto 2. | **Descripción 3**: Breve descripción del proyecto 3. | **Descripción 4**: Breve descripción del proyecto 4. |
 
 
 
