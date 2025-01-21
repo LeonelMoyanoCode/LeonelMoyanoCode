@@ -12,7 +12,7 @@
 ---
 
 ## 👨🏻‍💻 Algunos Proyectos
-| ![Texto alternativo 1](indexjuego.jpg) | ![Texto alternativo 2](librojuego.jpg) | ![Texto alternativo 1](indexjuego.jpg) | ![Texto alternativo 2](librojuego.jpg)  |
+| ![Texto alternativo 1](indexuniversidad.jpg) | ![Texto alternativo 2](librojuego.jpg) | ![Texto alternativo 1](indexuniversidad.jpg) | ![Texto alternativo 2](librojuego.jpg)  |
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
 | Descripción 1                             | Descripción 2                             | Descripción 3                             | Descripción 4                             |
 
