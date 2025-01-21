@@ -15,7 +15,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
   <div style="width: 22%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <img src="multimedia/librojuego.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
+    <img src="indexuniversidad.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
     <p style="padding: 10px; font-size: 16px;">Texto 1: Descripción breve del librojuego.</p>
   </div>
   
