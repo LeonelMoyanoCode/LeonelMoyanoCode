@@ -13,11 +13,13 @@
 
 ## 👨🏻‍💻 Algunos Proyectos
 
-| ![Texto alternativo 1](indexnoticias.jpg)](https://leonelmoyanocode.github.io/elgauchito) | ![Texto alternativo 2](librojuego.jpg)](https://leonelmoyanocode.github.io/jumphigh/) | ![Texto alternativo 3](indexuniversidad.jpg)](https://leonelmoyanocode.github.io/universidadhurlingham/) | ![Texto alternativo 4](indexparro.jpg)(https://leonelmoyanocode.github.io/peluqueriaparro/) |
-|---------------------------------------------|----------------------------------------|---------------------------------------|---------------------------------------|
-| **Pagina de Noticias**                      | **Pagina de LibroJuego**               | **Pagina Evento de Universidad**      | **Pagina de Barberia** |
+| [![Texto alternativo 1](indexnoticias.jpg)](https://leonelmoyanocode.github.io/elgauchito) | [![Texto alternativo 2](librojuego.jpg)](https://leonelmoyanocode.github.io/jumphigh/) |
+|------------------------------------------------|---------------------------------------------|
+| **Página de Noticias**                         | **Página de LibroJuego**                    |
 
-
+| [![Texto alternativo 3](indexuniversidad.jpg)](https://leonelmoyanocode.github.io/universidadhurlingham/) | [![Texto alternativo 4](indexparro.jpg)](https://leonelmoyanocode.github.io/peluqueriaparro/) |
+|----------------------------------------------------|--------------------------------------------------|
+| **Página Evento de Universidad**                   | **Página de Barbería**                            |
 
 ---
 
