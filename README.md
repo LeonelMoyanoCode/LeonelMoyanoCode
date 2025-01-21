@@ -13,7 +13,7 @@
 
 ## 👨🏻‍💻 Algunos Proyectos
 
-<div class="grid grid-cols-4 gap-4 p-4">
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-4">
   <!-- Card 1 -->
   <div class="rounded-lg shadow-lg overflow-hidden text-center">
     <img src="indexuniversidad.jpg" alt="Vista previa del librojuego" class="w-full h-auto"/>
