@@ -21,17 +21,17 @@
   </div>
 
   <div style="flex: 0 0 auto; width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <img src="multimedia/librojuego.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
+    <img src="librojuego.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
     <p style="padding: 10px; font-size: 16px;">Texto 2: Más información sobre la experiencia interactiva.</p>
   </div>
 
   <div style="flex: 0 0 auto; width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <img src="multimedia/librojuego.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
+    <img src="librojuego.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
     <p style="padding: 10px; font-size: 16px;">Texto 3: Historia y narrativa del libro interactivo.</p>
   </div>
 
   <div style="flex: 0 0 auto; width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <img src="multimedia/librojuego.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
+    <img src="librojuego.jpg" alt="Vista previa del librojuego" style="width: 100%; height: auto;"/>
     <p style="padding: 10px; font-size: 16px;">Texto 4: Descripción de las funcionalidades interactivas.</p>
   </div>
 </div>
