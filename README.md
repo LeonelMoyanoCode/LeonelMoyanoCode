@@ -13,7 +13,7 @@
 
 ## 👨🏻‍💻 Algunos Proyectos
 
-| ![Texto alternativo 1](indexuniversidad.jpg) | ![Texto alternativo 2](librojuego.jpg) | ![Texto alternativo 3](proyecto3.jpg) | ![Texto alternativo 4](proyecto4.jpg) |
+| ![Texto alternativo 1](indexnoticias.jpg)](https://leonelmoyanocode.github.io/elgauchito) | ![Texto alternativo 2](librojuego.jpg)](https://leonelmoyanocode.github.io/jumphigh/) | ![Texto alternativo 3](indexuniversidad.jpg)](https://leonelmoyanocode.github.io/universidadhurlingham/) | ![Texto alternativo 4](indexparro.jpg)(https://leonelmoyanocode.github.io/peluqueriaparro/) |
 |---------------------------------------------|----------------------------------------|---------------------------------------|---------------------------------------|
 | **Pagina de Noticias**                      | **Pagina de LibroJuego**               | **Pagina Evento de Universidad**      | **Pagina de Barberia** |
 
